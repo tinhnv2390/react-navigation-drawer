@@ -502,7 +502,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
   },
   overlay: {
-    ...StyleSheet.absoluteFillObject,
+//     ...StyleSheet.absoluteFillObject,
     zIndex: 1000,
   },
 });
